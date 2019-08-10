@@ -1,13 +1,18 @@
 # Site settings
 title: WHY Blog
 SEOTitle: 焕宇的博客 | WHY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-desk.jpeg
 email: 17722825048@163.com
 description: "Every failure is leading towards success."
 keyword: "WHY, WHY Blog, 焕宇的博客，温焕宇, SLAM， 机器人"
 url: "https://why-freedom.github.io"          # your host, for absolute URL
+<<<<<<< c3aced0a6e97f69b6530d3f47da27f5c6920774d
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/why-freedom/why-freedom.github.io.git" # you code repository
+=======
+baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
+#github_repo: "https://github.com/why-freedom/why-freedom.github.io.git" # you code repository
+>>>>>>> change why information
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
