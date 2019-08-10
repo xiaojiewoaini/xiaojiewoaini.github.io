@@ -1,13 +1,13 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      My First Post               # 标题 
-subtitle:   Hello World, Hello Blog #副标题
+title:      My First Post           # 标题 
+subtitle:   C++笔记                  #副标题
 date:       2019-08-10              # 时间
 author:     WHY                      # 作者
 header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
-    - 生活
+    - 学习
 ---
 
 ## 一：继承和派生
