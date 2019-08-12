@@ -1,12 +1,9 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-<<<<<<< HEAD
 title:      My First Post           # 标题 
 subtitle:   C++笔记                  #副标题
-=======
 title:      C++知识点               # 标题 
 subtitle:   C++学习记录              #副标题
->>>>>>> 3ff181198eac9de8e77783c6ac3120d29e70d458
 date:       2019-08-10              # 时间
 author:     WHY                      # 作者
 header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
