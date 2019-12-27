@@ -1,8 +1,8 @@
 ﻿# Site settings
 title: CXJ Blog
 SEOTitle: 晓杰的博客 | CXJ Blog
-header-img: img/post-bg-desk.jpeg
-email: 17722825048@163.com
+header-img: img/post-bg-desk-cxj.jpg
+email: 614252944@qq.com
 description: "Every failure is leading towards success."
 keyword: "CXJ, CXJ Blog, 晓杰的博客，程晓杰"
 url: "https://xiaojiewoaini.github.io"          # your host, for absolute URL
@@ -19,7 +19,7 @@ sidebar-avatar: /img/about-CXJ-gentle.jpeg      # use absolute URL, seeing it's 
 # SNS settings
 RSS: false
 # weibo_username:     wenhuanyu
-# zhihu_username:     刀耕火种
+# zhihu_username:      刀耕火种
 # github_username:    why-freedom
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
