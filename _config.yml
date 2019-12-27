@@ -1,13 +1,13 @@
 # Site settings
-title: WHY Blog
-SEOTitle: 焕宇的博客 | WHY Blog
+title: CXJ Blog
+SEOTitle: 晓杰的博客 | CXJ Blog
 header-img: img/post-bg-desk.jpeg
 email: 17722825048@163.com
 description: "Every failure is leading towards success."
-keyword: "WHY, WHY Blog, 焕宇的博客，温焕宇, SLAM， 机器人"
+keyword: "CXJ, CXJ Blog, 晓杰的博客，程晓杰"
 url: "https://why-freedom.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/why-freedom/why-freedom.github.io.git" # you code repository
+github_repo: "https://github.com/xiaojiewoaini/xiaojiewoaini.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
